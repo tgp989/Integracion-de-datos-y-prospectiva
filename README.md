@@ -1,5 +1,6 @@
 # Integracion-de-datos-y-prospectiva
-En este repositorio: 
+En este repositorio: .
+
 Se identifica los principios de la lógica borrosa en el modelamiento de variables aleatorias como variables lingüisticas.
 
 Se integra información cualitativa proveniente de expertos como soporte a la toma de decisiones de las organizaciones en contextos bajo incertidumbre.
